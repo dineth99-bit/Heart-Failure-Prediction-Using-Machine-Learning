@@ -1,4 +1,3 @@
 # Heart-Failure-Prediction-Using-Machine-Learning
-The project aims to predict the presence or absence of heart disease using a dataset comprising 12 attributes, including age, gender, and various cardiovascular indicators.
+Heart diseases have been among the major causes of death all over the world. It’s really important to find heart failure in early stages. If we can identify it in early stages, we can take action to prevent it from causing serious problems or even death. So, spotting it early and acting quickly can save lives. Startups are using data and machine learning to predict who might be at risk of heart failure. And the way machine learning and data analytics have emerged, the domain of healthcare espe cially in predictive diagnostics has not lagged behind. With large amounts of data coming in from the medical sector, ranging from clinical records up to data gathered from real-time monitoring, new approaches to disease prediction and prevention are possibly emerging from it.
 
-## Project implementation and codes will be made public soon
